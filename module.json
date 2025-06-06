@@ -1,6 +1,6 @@
 {
    "id":"forlorade-kunskapens-stad",
-   "title":"Call of Cthulhu Sverige",
+   "title":"Lund - Den förlorade kunskapens stad",
    "description":"Kompendium med bl.a. färdigheter, yrken, vapen, bakgrunder och föremål. Endast för personligt bruk!",
    "url":"https://github.com/perssonkristerperssonkrister/forlorade-kunskapens-stad",
    "manifest":"https://raw.githubusercontent.com/perssonkrister/forlorade-kunskapens-stad/master/module.json",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.1",
+   "version":"0.0.2",
    "compatibility":{
       "minimum":"12",
       "verified":"13"
