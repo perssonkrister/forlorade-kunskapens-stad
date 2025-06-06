@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.2",
+   "version":"0.0.3",
    "compatibility":{
       "minimum":"12",
       "verified":"13"
@@ -38,7 +38,7 @@
          "path":"./packs/den-forlorade-kunskapens-stad.db",
          "type":"Adventure",
          "system":"CoC7",
-         "banner":"./modules/forlorade-kunskapens-stad/img/Cover_image.jpg"
+         "banner":"./modules/forlorade-kunskapens-stad/img/Cover_image.webp"
       }
    ]
 }
