@@ -35,7 +35,7 @@
       {
          "label":"Lund - Den förlorade kunskapens stad",
          "name":"forlorade-kunskapens-stad",
-         "path":"./packs/den-forlorade-kunskapens-stad.db",
+         "path":"./packs/lund-den-forlorade-kunskapens-stad.db",
          "type":"Adventure",
          "system":"CoC7",
          "banner":"./modules/forlorade-kunskapens-stad/img/Cover_image.webp"
